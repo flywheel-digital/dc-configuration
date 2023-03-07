@@ -1,2 +1,4 @@
 server:
   port: 6030
+fila:
+  url: "https://devoktaqabackend.iloveasinsflywheel.com/"
