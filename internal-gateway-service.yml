@@ -1,2 +1,4 @@
 server:
   port: 8080
+fila:
+  url: "https://devoktaqabackend.iloveasinsflywheel.com/"
