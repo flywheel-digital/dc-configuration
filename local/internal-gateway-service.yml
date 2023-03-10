@@ -2,3 +2,5 @@ server:
   port: 6030
 fila:
   url: "https://devoktaqabackend.iloveasinsflywheel.com/"
+onespace:
+  url: "http://Api-Gateway-570183346.us-east-1.elb.amazonaws.com/"
